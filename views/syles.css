@@ -1,0 +1,7 @@
+.weather-icon {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure proper alignment */
+    margin: 0 auto; /* Center the image horizontally */
+    margin-top: 20px; /* Add some top margin for spacing */
+}
